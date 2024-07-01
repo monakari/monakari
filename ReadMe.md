@@ -7,6 +7,8 @@
 <img align="right" src="https://img.shields.io/github/followers/moonakari?label=Follow&style=social" />
 <h1 align="center"></h1>
 
+---
+
 ## **👍 My Skills**
 
 <table style="font-family:sansserif">
@@ -25,11 +27,6 @@
   <td align="center" width="80">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/>
-  </a>
-  </td>
-  <td align="center" width="80">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60"/>
   </a>
   </td>
   <td align="center" width="80">
@@ -52,15 +49,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/>
   </a>
   </td>
-  </tr>
-
-  <!-- #MARK: Row 2 -->
-  <tr>
   <td align="center" width="80">
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
   </a>
   </td>
+  </tr>
+
+  <!-- #MARK: Row 2 -->
+  <tr>
   <td align="center" width="80">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
@@ -96,15 +93,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
   </a>
   </td>
-  </tr>
-
-  <!-- #MARK: Row 3 -->
-  <tr>
   <td align="center" width="80">
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="60" height="60"/>
   </a>
   </td>
+  </tr>
+
+  <!-- #MARK: Row 3 -->
+  <tr>
   <td align="center" width="80">
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="60" height="60"/>
@@ -113,11 +110,6 @@
   <td align="center" width="80">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
-  </a>
-  </td>
-  <td align="center" width="80">
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="60" height="60"/>
   </a>
   </td>
   <td align="center" width="80">
@@ -140,9 +132,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
   </a>
   </td>
-  </tr>
-  <!-- #MARK: Row 4 -->
-  <tr>
   <td align="center" width="80">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
@@ -153,6 +142,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
   </a>
   </td>
+  </tr>
+  <!-- #MARK: Row 4 -->
+  <tr>
   <td align="center" width="80">
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/>
@@ -176,6 +168,8 @@
   </tr>
   
 </table>
+
+---
 
 ## **👍 Experienced Blockchain Networks**
 
@@ -213,6 +207,12 @@
     </td>
   </tr>
 </table>
+
+---
+
+<p>
+I have completed many projects using these skills with other GitHub account. Unfortunately, the account has been accidently spammed.
+</p>
 
 <!-- <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=🏆+Github+Trophies&vCenter=true&width=800&height=45&color=8acd32&duration=1&pause=100000" width="100%" /> -->
 
