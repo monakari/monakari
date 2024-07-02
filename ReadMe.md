@@ -1,7 +1,7 @@
-<a align="center" href="https://github.com/codemaster034"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20My%20Github!;Full-Stack%20Developer;&font=Pacifico&center=true&size=40&width=800&height=80"></a>
+<a align="center" href="https://github.com/monakari"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20My%20Github!;Full-Stack%20Developer;&font=Pacifico&center=true&size=40&width=800&height=80"></a>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api?username=codemaster034&theme=merko&layout=compact&hide_border=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemaster034&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api?username=moanakri&theme=merko&layout=compact&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monakari&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true) -->
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=monakari.monakari" />
 <img align="right" src="https://img.shields.io/github/followers/moonakari?label=Follow&style=social" />
