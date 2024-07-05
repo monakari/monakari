@@ -208,12 +208,6 @@
   </tr>
 </table>
 
----
-
-<p>
-I have completed many projects using these skills with other GitHub account. Unfortunately, the account has been <strong>ACCIDENTALLY</strong> spammed.
-</p>
-
 <!-- <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=🏆+Github+Trophies&vCenter=true&width=800&height=45&color=8acd32&duration=1&pause=100000" width="100%" /> -->
 
 <!-- | <img align="center" src="https://github-profile-trophy.vercel.app/?username=monakari&margin-w=15&row=1&column=7&no-frame=true" alt="My Github Stats" /> |
